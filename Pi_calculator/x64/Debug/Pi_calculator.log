@@ -1,0 +1,5 @@
+﻿  Number.cpp
+D:\ONDRA\CVUT\Programovani\Pi_calculator\Pi_calculator\Number.cpp(310,32): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+  Pi_calculator.cpp
+  Generování kódu...
+  Pi_calculator.vcxproj -> D:\ONDRA\CVUT\Programovani\Pi_calculator\x64\Debug\Pi_calculator.exe

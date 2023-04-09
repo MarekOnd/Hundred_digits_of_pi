@@ -1,0 +1,2 @@
+﻿  Pi_calculator.cpp
+D:\ONDRA\CVUT\Programovani\Pi_calculator\Pi_calculator\Pi_calculator.cpp : fatal error C1041: Nejde otevřít databázi programu D:\ONDRA\CVUT\Programovani\Pi_calculator\Pi_calculator\Debug\vc142.pdb. Pokud několik souborů CL.EXE zapisuje do stejného souboru .PDB, použijte prosím parametr /FS.
